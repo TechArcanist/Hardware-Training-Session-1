@@ -11,6 +11,8 @@ If you're new to IoT, follow these steps to set up your ESP32 for development:
 ## 2. Install the ESP32 Board Package
 - Open the Arduino IDE after installation.
 - Navigate to **Tools > Board > Boards Manager**.
+- ![image](https://github.com/user-attachments/assets/9769c96f-5d8b-41cf-81d2-489b513853ad)
+
 - Search for **ESP32** in the search bar.
 - Install the package labeled **"esp32 by Espressif Systems"**.
 
