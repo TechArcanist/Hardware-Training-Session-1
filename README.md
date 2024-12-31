@@ -1,5 +1,7 @@
 # Getting Started with IoT: Setting Up Your ESP32 : Hardware Training Session 1
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hardware+Training+Session+1+⚙️;" />
+</h1>
 If you're new to IoT, follow these steps to set up your ESP32 for development:
 
 ## 1. Download and Install the Arduino IDE
@@ -47,3 +49,6 @@ If you're new to IoT, follow these steps to set up your ESP32 for development:
 ---
 
 ### You're all set to start developing IoT projects with your ESP32! 🚀
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+👋;" />
+</h1>
