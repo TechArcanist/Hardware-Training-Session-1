@@ -22,7 +22,10 @@ If you're new to IoT, follow these steps to set up your ESP32 for development:
   - If no new port is visible:
     - Unplug and reconnect the cable.
     - Ensure you are using a **data cable** (some cables are power-only).
+    - ![image](https://github.com/user-attachments/assets/9f5939cb-1cce-4dbe-8f9c-16c05d8a855a)
+
   - If you see a yellow triangle next to the port, proceed to the next step.
+  - ![image](https://github.com/user-attachments/assets/f948ee21-ce61-4438-b79f-392265a5f376)
 
 ## 4. Install the CP2102 Driver (if needed)
 - If the ESP32 doesn’t appear in the Device Manager or shows a yellow triangle error, install the **CP2102 driver**:
